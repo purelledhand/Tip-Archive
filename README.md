@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/demos-🚀-yellow.svg" alt="demos" />
     </a>
     <br />
-    마주치는 에러, 쿡북처럼 빠르게 볼 수 있는 스킬들에 대해 정리해 놓은 아카이브
+    마주치는 에러, 쿡북처럼 빠르게 볼 수 있는 스킬들에 대해 정리하는 아카이브
     <br />
   </sup>
   <br />
